@@ -1,0 +1,29 @@
+<div *ngIf="(currentUser$ | async) != null">
+  <h3 class="text-center lead display-4 mb-5">Welcome</h3>
+
+  <div *ngIf="basket.length != 0 && (currentUser$ | async) as user" class="alert alert-info">
+    <div class="row d-block justify-content-center">
+      You have {{basket.length}} items in your basket. Total = R{{price.toFixed(2)}}
+      <button (click)="onCheckOut(basket, user.email)" [disabled]="basket.length == 0" class="btn btn-success float-right">
+        Purchase
+      </button>
+    </div>
+  </div>
+
+  <div class="row">
+    <div *ngFor="let movie of movies" class="col-4 mb-5">
+      <div class="card border-primary mb-3 h-100">
+        <div class="card-header lead">{{movie.title}} <i (click)="onAddToBasket(movie)" style="cursor: pointer"
+                                                         class="fa fa-plus-circle float-right">Add To Cart</i></div>
+        <div class="row">
+          <div class="ml-4 d-block justify-content-between">
+            <p class="p-2">Genre: {{movie.genre}}</p>
+            <p class="p-2">Price: {{movie.price}}</p>
+
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>

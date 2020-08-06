@@ -1,0 +1,9 @@
+C:\Users\jthur\OneDrive\Documents\Social Media App\SocialMedia\WebApplication-Movies\Core\bin\Debug\netstandard2.1\Core.deps.json
+C:\Users\jthur\OneDrive\Documents\Social Media App\SocialMedia\WebApplication-Movies\Core\bin\Debug\netstandard2.1\Core.dll
+C:\Users\jthur\OneDrive\Documents\Social Media App\SocialMedia\WebApplication-Movies\Core\bin\Debug\netstandard2.1\Core.pdb
+C:\Users\jthur\OneDrive\Documents\Social Media App\SocialMedia\WebApplication-Movies\Core\obj\Debug\netstandard2.1\Core.csprojAssemblyReference.cache
+C:\Users\jthur\OneDrive\Documents\Social Media App\SocialMedia\WebApplication-Movies\Core\obj\Debug\netstandard2.1\Core.AssemblyInfoInputs.cache
+C:\Users\jthur\OneDrive\Documents\Social Media App\SocialMedia\WebApplication-Movies\Core\obj\Debug\netstandard2.1\Core.AssemblyInfo.cs
+C:\Users\jthur\OneDrive\Documents\Social Media App\SocialMedia\WebApplication-Movies\Core\obj\Debug\netstandard2.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\jthur\OneDrive\Documents\Social Media App\SocialMedia\WebApplication-Movies\Core\obj\Debug\netstandard2.1\Core.dll
+C:\Users\jthur\OneDrive\Documents\Social Media App\SocialMedia\WebApplication-Movies\Core\obj\Debug\netstandard2.1\Core.pdb

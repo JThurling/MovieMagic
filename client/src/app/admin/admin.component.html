@@ -1,0 +1,50 @@
+<div *ngIf="(currentUser$|async).role == 'admin'">
+  <h3 class="mb-5">Admin Panel</h3>
+  <h4 class="mb-2">Add New Movies</h4>
+  <form (ngSubmit)="onAdd(add)" class="mb-5 form-inline" #add="ngForm">
+    <label class="ml-3">Title</label>
+    <input style="width: 8em" class="ml-3 form-control" name="title" type="text" ngModel required>
+    <label class="ml-3">Genre</label>
+    <input style="width: 8em" class="ml-3 form-control" name="genre" type="text" ngModel required>
+    <label class="ml-3">Price</label>
+    <input style="width: 8em" class="ml-3 form-control" name="price" type="number" ngModel required>
+    <button [disabled]="add.invalid && !add.dirty" class="ml-3 btn btn-success">Save</button>
+  </form>
+  <div class="row">
+    <div *ngFor="let movie of movies" [class.col-8]="movies.indexOf(movie) == index" class="col-4 mb-5">
+      <div class="card border-primary mb-3 h-100">
+        <div class="card-header lead">{{movie.title}}
+          <i (click)="onEdit(movie)" style="cursor: pointer"
+             class="ml-2 text-success fa fa-plus-circle float-right">Edit</i>
+          <i (click)="onDelete(movie)" style="cursor: pointer" class="ml-2 text-danger fa fa-trash float-right">Delete</i>
+        </div>
+
+        <div class="row">
+          <div class="ml-4 d-block justify-content-between">
+            <p class="p-2">Genre: {{movie.genre}}</p>
+            <p class="p-2">Price: {{movie.price}}</p>
+
+            <form (ngSubmit)="onEditSubmit(edit, movie)" *ngIf="movies.indexOf(movie) == index" class="form-inline"
+                  #edit="ngForm" val>
+              <label class="ml-3">Title</label>
+              <input style="width: 8em" id="title" [class.border-danger]="title.invalid" #title="ngModel" class="ml-3 form-control" name="title" type="text" [(ngModel)]="movie.title"
+                     required>
+              <div [hidden]="title.valid" [class.text-danger]="title.invalid">Invalid Title</div>
+              <label class="ml-3">Genre</label>
+              <input style="width: 8em" id="genre" #genre="ngModel" [class.border-danger]="genre.invalid" class="ml-3 form-control" [class.border-danger] name="genre" type="text" [(ngModel)]="movie.genre"
+                     required>
+              <div [hidden]="genre.valid" [class.text-danger]="genre.invalid">Invalid Genre</div>
+              <label class="ml-3">Price</label>
+              <input style="width: 8em" id="price" #price="ngModel" [class.border-danger]="price.invalid" class="ml-3 form-control" name="price" type="number" [(ngModel)]="movie.price"
+                     required>
+              <div [hidden]="price.valid" [class.text-danger]="price.invalid">Invalid Price</div>
+              <button [disabled]="edit.invalid" class="ml-3 btn btn-success">Save</button>
+            </form>
+
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>

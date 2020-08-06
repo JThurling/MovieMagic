@@ -1,0 +1,21 @@
+<div *ngIf="(currentUser$ | async) != null && (currentUser$ | async).role == 'admin'">
+  <h3 class="text-center lead display-4 mb-5">All Orders</h3>
+
+  <div class="row">
+    <div *ngFor="let order of order" class="col-12 mb-5">
+      <div class="card border-primary mb-3">
+        <div class="card-header">User: {{order.email}}</div>
+        <h5 class="p-1">Movies Ordered</h5>
+        <div class="row p-5">
+          <div class="d-block border justify-content-between col-4 p-3" *ngFor="let movie of order.movies">
+            <p class="">Title: {{movie.title}}</p>
+            <p class="">Genre: {{movie.genre}}</p>
+            <p class="">Price: {{movie.price}}</p>
+          </div>
+        </div>
+
+        <h4 class="p-3">Subtotal: R{{order.subtotal.toFixed(2)}}</h4>
+      </div>
+    </div>
+  </div>
+</div>

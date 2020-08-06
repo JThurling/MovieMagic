@@ -1,0 +1,12 @@
+<app-nav-bar></app-nav-bar>
+<div class="mb-5"><p>tt</p></div>
+<div *ngIf="(currentUser$ | async) == null" class="container my-sm-5">
+  <h3 class="text-sm-center">Welcome to MovieMagic</h3>
+  <p class="text-sm-center">Please Login to continue</p>
+
+</div>
+<div class="container">
+  <router-outlet></router-outlet>
+</div>
+
+

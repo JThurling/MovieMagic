@@ -1,0 +1,497 @@
+[
+  {
+    "Title": "Dead Calm",
+    "Genre": "Thriller",
+    "Price": 68.98
+  },
+  {
+    "Title": "Project A ('A' gai waak)",
+    "Genre": "Action|Comedy",
+    "Price": 96.38
+  },
+  {
+    "Title": "Toy Story of Terror",
+    "Genre": "Animation|Children|Comedy",
+    "Price": 69.95
+  },
+  {
+    "Title": "Rosencrantz and Guildenstern Are Undead",
+    "Genre": "Comedy|Horror",
+    "Price": 73.72
+  },
+  {
+    "Title": "Who Wants to Kill Jessie? (Kdo chce zabít Jessii?)",
+    "Genre": "Comedy|Sci-Fi",
+    "Price": 113.45
+  },
+  {
+    "Title": "Truce, The (a.k.a. La Tregua)",
+    "Genre": "Drama",
+    "Price": 86.52
+  },
+  {
+    "Title": "Get Yourself a College Girl",
+    "Genre": "Comedy",
+    "Price": 56.25
+  },
+  {
+    "Title": "Tokyo Twilight (Tôkyô boshoku)",
+    "Genre": "Drama",
+    "Price": 92.66
+  },
+  {
+    "Title": "All Mine to Give",
+    "Genre": "Drama|Romance",
+    "Price": 148.37
+  },
+  {
+    "Title": "Devils, The",
+    "Genre": "Drama",
+    "Price": 117.45
+  },
+  {
+    "Title": "Angels Crest",
+    "Genre": "Drama",
+    "Price": 106.82
+  },
+  {
+    "Title": "Grand Theft Parsons",
+    "Genre": "Comedy|Drama",
+    "Price": 122.37
+  },
+  {
+    "Title": "Italian Job, The",
+    "Genre": "Action|Crime",
+    "Price": 63.58
+  },
+  {
+    "Title": "Late Show, The",
+    "Genre": "Comedy|Crime|Drama|Mystery",
+    "Price": 115.13
+  },
+  {
+    "Title": "Flight of the Intruder",
+    "Genre": "Action|War",
+    "Price": 124.63
+  },
+  {
+    "Title": "X2: X-Men United",
+    "Genre": "Action|Adventure|Sci-Fi|Thriller",
+    "Price": 143.93
+  },
+  {
+    "Title": "Kaspar Hauser",
+    "Genre": "Drama|Mystery",
+    "Price": 120.12
+  },
+  {
+    "Title": "Bribe, The",
+    "Genre": "Drama|Film-Noir|Thriller",
+    "Price": 99
+  },
+  {
+    "Title": "Louis C.K.: Chewed Up",
+    "Genre": "Comedy",
+    "Price": 120.91
+  },
+  {
+    "Title": "World's Fastest Indian, The",
+    "Genre": "Drama",
+    "Price": 81.91
+  },
+  {
+    "Title": "Indian Summer (a.k.a. Alive & Kicking)",
+    "Genre": "Comedy|Drama",
+    "Price": 67.2
+  },
+  {
+    "Title": "Teenage Mutant Ninja Turtles",
+    "Genre": "Action|Adventure|Comedy",
+    "Price": 122.78
+  },
+  {
+    "Title": "Ghajini",
+    "Genre": "Action|Romance|Thriller",
+    "Price": 57.75
+  },
+  {
+    "Title": "Step Up Love Story (Futari ecchi)",
+    "Genre": "Animation|Comedy|Romance",
+    "Price": 98.49
+  },
+  {
+    "Title": "Bending the Rules",
+    "Genre": "Action|Drama",
+    "Price": 104.11
+  },
+  {
+    "Title": "Ocho apellidos vascos",
+    "Genre": "Comedy",
+    "Price": 147.3
+  },
+  {
+    "Title": "Last Exit to Brooklyn",
+    "Genre": "Drama",
+    "Price": 125.31
+  },
+  {
+    "Title": "Escape From Tomorrow",
+    "Genre": "Drama|Fantasy|Horror",
+    "Price": 53.58
+  },
+  {
+    "Title": "Made in U.S.A.",
+    "Genre": "Crime|Mystery",
+    "Price": 101.75
+  },
+  {
+    "Title": "Last Days of Pompeii, The (Gli ultimi giorni di Pompeii)",
+    "Genre": "Adventure|Drama",
+    "Price": 147.18
+  },
+  {
+    "Title": "Me and the Colonel",
+    "Genre": "Comedy|War",
+    "Price": 91.41
+  },
+  {
+    "Title": "Women in Love",
+    "Genre": "Drama",
+    "Price": 111.3
+  },
+  {
+    "Title": "Article 99",
+    "Genre": "Comedy|Drama",
+    "Price": 146.5
+  },
+  {
+    "Title": "Cop Out",
+    "Genre": "Action|Comedy|Crime",
+    "Price": 111.15
+  },
+  {
+    "Title": "Who Am I? (Wo shi shei)",
+    "Genre": "Action|Adventure|Comedy|Sci-Fi|Thriller",
+    "Price": 58.97
+  },
+  {
+    "Title": "Face",
+    "Genre": "Comedy",
+    "Price": 146.85
+  },
+  {
+    "Title": "Raven, The",
+    "Genre": "Crime|Horror|Thriller",
+    "Price": 147.89
+  },
+  {
+    "Title": "Crawling Eye, The (a.k.a. Trollenberg Terror, The)",
+    "Genre": "Horror|Sci-Fi",
+    "Price": 127.56
+  },
+  {
+    "Title": "Patton",
+    "Genre": "Drama|War",
+    "Price": 56.09
+  },
+  {
+    "Title": "Bella",
+    "Genre": "Drama|Romance",
+    "Price": 51.95
+  },
+  {
+    "Title": "Deal, The",
+    "Genre": "Drama",
+    "Price": 94.36
+  },
+  {
+    "Title": "Tora! Tora! Tora!",
+    "Genre": "Action|Drama|War",
+    "Price": 103.97
+  },
+  {
+    "Title": "Dodge City",
+    "Genre": "Romance|Western",
+    "Price": 93.28
+  },
+  {
+    "Title": "Varg Veum - Fallen Angels (Varg Veum - Falne Engler)",
+    "Genre": "Crime|Drama|Thriller",
+    "Price": 50.89
+  },
+  {
+    "Title": "iSteve",
+    "Genre": "Comedy",
+    "Price": 61.98
+  },
+  {
+    "Title": "Krakatoa, East of Java",
+    "Genre": "Adventure|Drama",
+    "Price": 86.48
+  },
+  {
+    "Title": "Silent Fall",
+    "Genre": "Drama|Thriller",
+    "Price": 131.56
+  },
+  {
+    "Title": "As Cool As I Am",
+    "Genre": "Comedy|Drama",
+    "Price": 88.67
+  },
+  {
+    "Title": "Mabel's Married Life",
+    "Genre": "Comedy",
+    "Price": 110.56
+  },
+  {
+    "Title": "Confess",
+    "Genre": "Drama|Thriller",
+    "Price": 148.71
+  },
+  {
+    "Title": "Magic in the Water",
+    "Genre": "Adventure|Children|Fantasy",
+    "Price": 90.24
+  },
+  {
+    "Title": "Ninth Configuration, The (a.k.a. Twinkle, Twinkle, Killer Kane)",
+    "Genre": "Drama|War",
+    "Price": 145.84
+  },
+  {
+    "Title": "Life of Pi",
+    "Genre": "Adventure|Drama|IMAX",
+    "Price": 121.72
+  },
+  {
+    "Title": "Point Blank",
+    "Genre": "Action|Crime|Drama|Thriller",
+    "Price": 109.97
+  },
+  {
+    "Title": "Superman IV: The Quest for Peace",
+    "Genre": "Action|Adventure|Sci-Fi",
+    "Price": 71.85
+  },
+  {
+    "Title": "Ten Minutes Older: The Cello",
+    "Genre": "Drama|Musical|Romance|Sci-Fi",
+    "Price": 110.74
+  },
+  {
+    "Title": "Unspeakable Acts",
+    "Genre": "Drama",
+    "Price": 145.25
+  },
+  {
+    "Title": "Cube of Sugar, A (Ye Habe Ghand)",
+    "Genre": "Comedy|Drama",
+    "Price": 119.92
+  },
+  {
+    "Title": "Claire of the Moon",
+    "Genre": "Drama|Romance",
+    "Price": 56.05
+  },
+  {
+    "Title": "I Will Follow You Into the Dark",
+    "Genre": "Drama|Horror|Romance",
+    "Price": 105.9
+  },
+  {
+    "Title": "Remote Control",
+    "Genre": "Comedy|Drama",
+    "Price": 90.48
+  },
+  {
+    "Title": "Eyes Without a Face (Yeux sans visage, Les)",
+    "Genre": "Horror",
+    "Price": 149.36
+  },
+  {
+    "Title": "Summer of Sam",
+    "Genre": "Drama",
+    "Price": 106.26
+  },
+  {
+    "Title": "Multiplicity",
+    "Genre": "Comedy",
+    "Price": 147.88
+  },
+  {
+    "Title": "Man About Town",
+    "Genre": "Comedy|Drama",
+    "Price": 130.49
+  },
+  {
+    "Title": "Down to the Sea in Ships",
+    "Genre": "Drama",
+    "Price": 87.14
+  },
+  {
+    "Title": "Stockholm, Pennsylvania",
+    "Genre": "Drama|Thriller",
+    "Price": 50.69
+  },
+  {
+    "Title": "Exit Humanity",
+    "Genre": "Drama|Horror",
+    "Price": 84.5
+  },
+  {
+    "Title": "Down to Earth",
+    "Genre": "Comedy|Fantasy|Romance",
+    "Price": 94.04
+  },
+  {
+    "Title": "Coward, The (Kapurush)",
+    "Genre": "Drama",
+    "Price": 67.35
+  },
+  {
+    "Title": "Dead Leaves",
+    "Genre": "Action|Adventure|Animation|Comedy|Sci-Fi",
+    "Price": 138.9
+  },
+  {
+    "Title": "You Can't Take It with You",
+    "Genre": "Comedy|Romance",
+    "Price": 67.13
+  },
+  {
+    "Title": "House of Branching Love, The (Haarautuvan rakkauden talo)",
+    "Genre": "Comedy|Drama",
+    "Price": 96.82
+  },
+  {
+    "Title": "Traviata, La",
+    "Genre": "Drama|Musical",
+    "Price": 97.18
+  },
+  {
+    "Title": "Full Metal Jacket",
+    "Genre": "Drama|War",
+    "Price": 141.27
+  },
+  {
+    "Title": "Pacifier, The",
+    "Genre": "Action|Comedy",
+    "Price": 60.49
+  },
+  {
+    "Title": "Hairdresser's Husband, The (Le mari de la coiffeuse)",
+    "Genre": "Comedy|Drama|Romance",
+    "Price": 53.78
+  },
+  {
+    "Title": "Soldier's Girl",
+    "Genre": "Drama",
+    "Price": 64.38
+  },
+  {
+    "Title": "Margaret Thatcher: The Long Walk to Finchley",
+    "Genre": "Drama",
+    "Price": 102.35
+  },
+  {
+    "Title": "Deliverance Creek",
+    "Genre": "Drama",
+    "Price": 59.13
+  },
+  {
+    "Title": "Thor: The Dark World",
+    "Genre": "Action|Adventure|Fantasy|IMAX",
+    "Price": 64.66
+  },
+  {
+    "Title": "Boy Meets Girl",
+    "Genre": "Comedy|Romance",
+    "Price": 116.51
+  },
+  {
+    "Title": "Shriek If You Know What I Did Last Friday the Thirteenth",
+    "Genre": "Comedy|Horror",
+    "Price": 102.11
+  },
+  {
+    "Title": "Stuck in Love",
+    "Genre": "Comedy|Drama|Romance",
+    "Price": 132.52
+  },
+  {
+    "Title": "Debt, The",
+    "Genre": "Drama|Thriller",
+    "Price": 145.71
+  },
+  {
+    "Title": "Naked Ambition: An R Rated Look at an X Rated Industry",
+    "Genre": "Documentary",
+    "Price": 86.03
+  },
+  {
+    "Title": "Backwoods (Bosque de sombras)",
+    "Genre": "Drama|Thriller",
+    "Price": 87.22
+  },
+  {
+    "Title": "Love Is All You Need (Den skaldede frisør)",
+    "Genre": "Comedy|Drama|Romance",
+    "Price": 120.09
+  },
+  {
+    "Title": "Young Master, The (Shi di chu ma)",
+    "Genre": "Action|Comedy",
+    "Price": 138.72
+  },
+  {
+    "Title": "Little Girl Who Lives Down the Lane, The",
+    "Genre": "Drama|Mystery|Thriller",
+    "Price": 111.98
+  },
+  {
+    "Title": "Pacific Heights",
+    "Genre": "Mystery|Thriller",
+    "Price": 123.99
+  },
+  {
+    "Title": "Prefontaine",
+    "Genre": "Drama",
+    "Price": 73.56
+  },
+  {
+    "Title": "Experience Preferred... But Not Essential",
+    "Genre": "Drama",
+    "Price": 106.49
+  },
+  {
+    "Title": "High Heels and Low Lifes",
+    "Genre": "Action|Comedy|Crime|Drama",
+    "Price": 51.07
+  },
+  {
+    "Title": "Prize, The",
+    "Genre": "Drama|Mystery|Thriller",
+    "Price": 88.72
+  },
+  {
+    "Title": "Arctic Blast",
+    "Genre": "Sci-Fi|Thriller",
+    "Price": 138.81
+  },
+  {
+    "Title": "Lords of Discipline, The",
+    "Genre": "Thriller",
+    "Price": 140
+  },
+  {
+    "Title": "Lucie Aubrac",
+    "Genre": "Romance|War",
+    "Price": 138.94
+  },
+  {
+    "Title": "Lower Depths, The (Les bas-fonds)",
+    "Genre": "Crime|Drama|Romance",
+    "Price": 93.95
+  }
+]

@@ -1,0 +1,23 @@
+<div class="container-xl col-5">
+  <form class="form-signin" (ngSubmit)="onRegister(register)" #register="ngForm">
+    <img class="mb-4" src="/docs/4.5/assets/brand/bootstrap-solid.svg" alt="" width="72" height="72">
+    <h1 class="h3 mb-3 font-weight-normal">Please sign in</h1>
+
+    <label for="inputEmail" class="sr-only">Email address</label>
+    <input type="text" id="inputFirstname" class="form-control mb-3" placeholder="First Name" name="firstName" required ngModel>
+
+    <label for="inputEmail" class="sr-only">Email address</label>
+    <input type="text" id="inputSurname" class="form-control mb-3" placeholder="Surname" name="surname" required ngModel>
+
+    <label for="inputEmail" class="sr-only">Email address</label>
+    <input type="email" id="inputEmail" class="form-control mb-3" placeholder="Email address" name="email" required ngModel>
+
+    <label for="inputEmail" class="sr-only">Email address</label>
+    <input type="email" id="inputPhone" class="form-control mb-3" placeholder="Phone Number" name="phoneNumber" required ngModel>
+
+    <label for="inputPassword" class="sr-only">Password</label>
+    <input type="password" id="inputPassword" class="form-control mb-3" placeholder="Password" name="password" required ngModel>
+    <button class="btn btn-lg btn-primary btn-block" [disabled]="register.invalid" type="submit">Sign Up</button>
+    <p class="mt-5 mb-3 text-muted">&copy; 2017-2020</p>
+  </form>
+</div>
